@@ -286,6 +286,10 @@ button {
   font-weight: 500;
 }
 
+.portfolio-item:first-child .portfolio-card {
+  border-radius: 0px 0px 4px 4px;
+}
+
 .portfolio-item-type {
   font-size: 16px;
   line-height: 1.5;
